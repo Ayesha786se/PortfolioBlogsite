@@ -15,11 +15,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./utilities.css">
-
   </head>
   <body>
     <div class="site-main-wrapper">
-      <button class="hamberger">
+      <button class="hamburger">
         <img src="hamberger.svg" alt="">
       </button>
 
@@ -327,17 +326,17 @@
     <p>we provide high standardclean website for your business solutions</p>
     <div class="card-wrapper">
       <div class="card">
-        <i class="fa-solid fa-phone"></i>
+        <img src="phone-2.svg" alt="">
         <h2>Call Us On</h2>
         <h6>+0987654321</h6>
       </div>
       <div class="card">
-        <i class="fa-solid fa-envelope"></i>
+        <img src="phone-2.svg" alt="">
         <h2>Email Us At</h2>
         <h6>clouddusk@gmail.com</h6>
       </div>
       <div class="card">
-        <i class="fa-solid fa-house"></i>
+        <img src="phone-2.svg" alt="">
         <h2>Visit office</h2>
         <h6>99 S.t jhfsgadsagsf Indonesia</h6>
       </div>

@@ -459,8 +459,9 @@ section.contact .card-wrapper .card{
     text-align: center;
 
 }
-section.contact .card-wrapper .card .img{
-    margin-bottom: 3rem;
+section.contact .card-wrapper .card i{
+    margin-bottom: 2rem;
+    font-size: 2rem;
 }
 section.contact .card-wrapper .card h1{
     font-weight: 400;
@@ -537,7 +538,7 @@ footer.copyright{
 site-main-wrapper{
     position: relative;
 }
-.hamburger{
+.hamberger{
     position:absolute ;
     top: 40px;
     right: 40px;
@@ -548,7 +549,7 @@ site-main-wrapper{
     cursor: pointer;
     display: none;
 }
-.hamburger img{
+.hamberger img{
     width: 30px;
 }
 
@@ -593,7 +594,7 @@ site-main-wrapper{
     header #main-nav{
         display: none;
     }
-    .hamburger{
+    .hamberger{
         display: block;
     }
     .hero .left img{
